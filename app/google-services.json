@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "222394268307",
+    "firebase_url": "https://chatty-dc787.firebaseio.com",
+    "project_id": "chatty-dc787",
+    "storage_bucket": "chatty-dc787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222394268307:android:081c7fc1866d200a",
+        "android_client_info": {
+          "package_name": "beaststudio.in.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222394268307-gc25oej6nj8jag8v7a315ogqpcn55pq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "beaststudio.in.chatapp",
+            "certificate_hash": "8b01c7a9f5a8f1d272553621d5403a5a40f766ac"
+          }
+        },
+        {
+          "client_id": "222394268307-nc0t1kgqrtog1mkevf7kcgq1mnpeu8tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5WgUgJexSAmjKQ9c3xcQi09a339zh_dI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222394268307-nc0t1kgqrtog1mkevf7kcgq1mnpeu8tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
